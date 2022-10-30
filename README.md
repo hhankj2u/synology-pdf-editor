@@ -25,7 +25,7 @@ docker run -v <YOUR-PDF-FOLDERS>:/home/docker/data -p 8080:8080 pdf-editor:lates
 ```
 
 ### Client
-Visit `http://hostname:8080` by the browse you like
+Visit `http://hostname:8080` by the browser you like
 
 ## Credit
 Based on <https://github.com/sykuang/docker-wine-x11-novnc>
