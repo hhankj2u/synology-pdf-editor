@@ -10,7 +10,7 @@ docker build -t pdf-editor .
 ```
 - Tag it
 ```bash
-docker tag gp-web:latest <YOUR-DOCKERHUB>/pdf-editor
+docker tag pdf-editor:latest <YOUR-DOCKERHUB>/pdf-editor
 ```
 - Push to docker registry
 ```bash
